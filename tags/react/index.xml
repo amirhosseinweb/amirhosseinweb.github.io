@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React on AmirHossein</title>
+    <link>https://amirhosseinweb.github.io/tags/react/</link>
+    <description>Recent content in React on AmirHossein</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Nov 2025 15:17:34 +0330</lastBuildDate>
+    <atom:link href="https://amirhosseinweb.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React 3d Startup</title>
+      <link>https://amirhosseinweb.github.io/projects/react-3d-startup/</link>
+      <pubDate>Thu, 13 Nov 2025 15:17:34 +0330</pubDate>
+      <guid>https://amirhosseinweb.github.io/projects/react-3d-startup/</guid>
+      <description>Responsive React landing page with Tailwind CSS and animations.</description>
+    </item>
+  </channel>
+</rss>

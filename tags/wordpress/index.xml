@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WordPress on AmirHossein</title>
+    <link>https://amirhosseinweb.github.io/tags/wordpress/</link>
+    <description>Recent content in WordPress on AmirHossein</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Nov 2025 11:57:53 +0330</lastBuildDate>
+    <atom:link href="https://amirhosseinweb.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>laitino</title>
+      <link>https://amirhosseinweb.github.io/projects/wordpress-electronics-store/</link>
+      <pubDate>Fri, 14 Nov 2025 11:57:53 +0330</pubDate>
+      <guid>https://amirhosseinweb.github.io/projects/wordpress-electronics-store/</guid>
+      <description>&lt;h1 id=&#34;lighting--electronics-store&#34;&gt;Lighting &amp;amp; Electronics Store&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This project is a modern, fully responsive &lt;strong&gt;WordPress e-commerce website&lt;/strong&gt; developed for selling a wide range of &lt;strong&gt;lighting products, electrical devices, and electronic equipment&lt;/strong&gt;.&lt;br&gt;
+The platform emphasizes a clean and intuitive interface, fast performance, and a seamless shopping experience, enabling customers to easily browse, compare, and purchase products.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full WooCommerce shop setup&lt;/strong&gt; for lighting and electronics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Product categories &amp;amp; variations&lt;/strong&gt; (wattage, color, type, size)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced search &amp;amp; filtering&lt;/strong&gt; for quick product discovery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Smooth checkout experience&lt;/strong&gt; with multiple payment options&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customer accounts&lt;/strong&gt; with order history and profile management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive design&lt;/strong&gt; optimized for mobile, tablet, and desktop&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Homepage highlighting featured and best-selling products&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;WordPress (latest version)&lt;/li&gt;
+&lt;li&gt;WooCommerce&lt;/li&gt;
+&lt;li&gt;PHP 8+ / MySQL&lt;/li&gt;
+&lt;li&gt;HTML5, CSS3, JavaScript&lt;/li&gt;
+&lt;li&gt;Custom-designed responsive theme&lt;/li&gt;
+&lt;li&gt;Key plugins: SEO, Cache, Contact Form 7, Zarinpal (Iranian Payment), Security plugin, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;live-site&#34;&gt;Live Site&lt;/h2&gt;
+&lt;p&gt;You can visit the live website here: &lt;a href=&#34;https://laitino.com/&#34;&gt;Electronics Store&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
