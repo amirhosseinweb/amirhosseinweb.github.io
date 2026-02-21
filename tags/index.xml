@@ -6,8 +6,43 @@
     <description>Recent content in Tags on AmirHossein</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 11:57:53 +0330</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amirhosseinweb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nextjs</title>
+      <link>https://amirhosseinweb.github.io/tags/nextjs/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://amirhosseinweb.github.io/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://amirhosseinweb.github.io/tags/react/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://amirhosseinweb.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shadcn</title>
+      <link>https://amirhosseinweb.github.io/tags/shadcn/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://amirhosseinweb.github.io/tags/shadcn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TailwindCSS</title>
+      <link>https://amirhosseinweb.github.io/tags/tailwindcss/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://amirhosseinweb.github.io/tags/tailwindcss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typescript</title>
+      <link>https://amirhosseinweb.github.io/tags/typescript/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://amirhosseinweb.github.io/tags/typescript/</guid>
+      <description></description>
+    </item>
     <item>
       <title>E-Commerce</title>
       <link>https://amirhosseinweb.github.io/tags/e-commerce/</link>
@@ -83,20 +118,6 @@
       <link>https://amirhosseinweb.github.io/tags/boxicons/</link>
       <pubDate>Thu, 13 Nov 2025 15:17:34 +0330</pubDate>
       <guid>https://amirhosseinweb.github.io/tags/boxicons/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>React</title>
-      <link>https://amirhosseinweb.github.io/tags/react/</link>
-      <pubDate>Thu, 13 Nov 2025 15:17:34 +0330</pubDate>
-      <guid>https://amirhosseinweb.github.io/tags/react/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TailwindCSS</title>
-      <link>https://amirhosseinweb.github.io/tags/tailwindcss/</link>
-      <pubDate>Thu, 13 Nov 2025 15:17:34 +0330</pubDate>
-      <guid>https://amirhosseinweb.github.io/tags/tailwindcss/</guid>
       <description></description>
     </item>
   </channel>

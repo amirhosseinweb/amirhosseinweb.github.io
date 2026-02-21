@@ -6,7 +6,7 @@
     <description>Recent content in React on AmirHossein</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Nov 2025 15:17:34 +0330</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amirhosseinweb.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React 3d Startup</title>
@@ -14,6 +14,13 @@
       <pubDate>Thu, 13 Nov 2025 15:17:34 +0330</pubDate>
       <guid>https://amirhosseinweb.github.io/projects/react-3d-startup/</guid>
       <description>Responsive React landing page with Tailwind CSS and animations.</description>
+    </item>
+    <item>
+      <title>Admin Dashboard</title>
+      <link>https://amirhosseinweb.github.io/projects/dashboard/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://amirhosseinweb.github.io/projects/dashboard/</guid>
+      <description>Modern dashboard built with Next.js and shadcn/ui</description>
     </item>
   </channel>
 </rss>
